@@ -1,0 +1,23 @@
+h1{
+	background-color:green;
+	font-size:70px;
+	color:white;
+	text-align:center;
+	}
+	
+	.police{
+		background-color:blue;
+	}
+	.station{
+		background-color:pink;
+	}	
+.station{
+	width:50%;
+}
+
+.box{
+	background:blue;
+	width:500px;
+	height:88px;
+	margin:20px 30px 4px 50px;
+}
